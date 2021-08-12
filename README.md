@@ -1,6 +1,6 @@
 
 # 세상 모든 알고리즘 문제 뿌시기👊🏻
-### https://cream-grill-223.notion.site/30e16ebbccc8476e8ee08f5f0e7f0472
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://cream-grill-223.notion.site/30e16ebbccc8476e8ee08f5f0e7f0472)](https://cream-grill-223.notion.site/30e16ebbccc8476e8ee08f5f0e7f0472) *◀ 노션 페이지에서 공부 내용 관리 중*
 
 
 
