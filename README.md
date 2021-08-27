@@ -19,10 +19,12 @@
 | 5주차 | 🔄 [거리두기 확인하기](https://cream-grill-223.notion.site/07-21-BFS-DFS-9248a78f7dac43ea8bedab775fa267fa) | 프로그래머스 | DFS/BFS    | 🔺    |
 |       | [타겟넘버](https://cream-grill-223.notion.site/08-19-BFS-DFS-3c64b0bec0e740489959be014a43d6f9)            |              | DFS/BFS    |  ⭕   |
 |       | [프린터](https://cream-grill-223.notion.site/08-19-8c2e096296e94af8aa24f8b80b5f1445)              |              | 스택/큐    |  ⭕  |
-| 6주차 | [좌표 압축](https://cream-grill-223.notion.site/08-26-015d4b6d18654f77aeced7e50d121c17) | 백준 | 정렬    |    |
-|       | [수 정렬하기3](https://cream-grill-223.notion.site/08-26-3-491652c9d10248f7ac068e2d85bfddbb)            |              | 정렬    |     |
-|       | [벽 부수고 이동하기](https://cream-grill-223.notion.site/08-26-DFS-BFS-8e1a5d14de334b8e937ec10dd6faf45b)              |              | DFS/BFS    |    |
-
+| 6주차 | [좌표 압축](https://cream-grill-223.notion.site/08-26-015d4b6d18654f77aeced7e50d121c17) | 백준 | 정렬    | ⭕ |
+|       | [수 정렬하기3](https://cream-grill-223.notion.site/08-26-3-491652c9d10248f7ac068e2d85bfddbb)            |              | 정렬    |  ⭕  |
+|       | [벽 부수고 이동하기](https://cream-grill-223.notion.site/08-26-DFS-BFS-8e1a5d14de334b8e937ec10dd6faf45b)              |              | DFS/BFS    |  ❌  |
+| 7주차 | [위장](https://cream-grill-223.notion.site/09-02-223273fb707e49ed8d58619edeff1847) | 프로그래머스 | 해시    |    |
+|       | [구명보트](https://cream-grill-223.notion.site/09-02-605f1902105e4337b7e122592fc04d61)            |      | 그리디    |    |
+|       | [입국심사](https://cream-grill-223.notion.site/09-02-a8b6f49afcdb4a29a91f51fd28474ff8)              |              | 이분탐색   |    |
 
 
 ----
@@ -41,3 +43,4 @@
 * 4주차 : DFS / BFS (1)
 * 5주차 : DFS / BFS (2)
 * 6주차 : 정렬
+* 7주차 : 이분탐색
