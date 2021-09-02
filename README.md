@@ -25,9 +25,9 @@
 | 7주차 | [위장](https://cream-grill-223.notion.site/09-02-223273fb707e49ed8d58619edeff1847) | 프로그래머스 | 해시    |  ⭕  |
 |       | [구명보트](https://cream-grill-223.notion.site/09-02-605f1902105e4337b7e122592fc04d61)            |      | 그리디    |  ⭕  |
 |       | [입국심사](https://cream-grill-223.notion.site/09-02-a8b6f49afcdb4a29a91f51fd28474ff8)              |              | 이분 탐색   |  🔺  |
-| 8주차 | [공유기 설치](https://www.notion.so/09-09-0c020dc4a5c6481a8b65206fce2bb2fd) | 백준 | 이분 탐색    |  ⭕  |
-|       | [나무 자르기](https://www.notion.so/09-09-33723c8fdc334508abc190ca92e63b9f)            |      | 이분 탐색   |  ⭕  |
-|       | [입국심사](https://cream-grill-223.notion.site/09-02-a8b6f49afcdb4a29a91f51fd28474ff8)              |              | 이분 탐색   |  🔺  |
+| 8주차 | [공유기 설치](https://www.notion.so/09-09-0c020dc4a5c6481a8b65206fce2bb2fd) | 백준 | 이분 탐색    |    |
+|       | [나무 자르기](https://www.notion.so/09-09-33723c8fdc334508abc190ca92e63b9f)            |      | 이분 탐색   |    |
+|       | [입국심사](https://cream-grill-223.notion.site/09-02-a8b6f49afcdb4a29a91f51fd28474ff8)              |              | 이분 탐색   |   |
 
 
 ----
