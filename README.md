@@ -28,8 +28,12 @@
 | 8주차 | [공유기 설치](https://www.notion.so/09-09-0c020dc4a5c6481a8b65206fce2bb2fd) | 백준 | 이분 탐색    |    |
 |       | [나무 자르기](https://www.notion.so/09-09-33723c8fdc334508abc190ca92e63b9f)            |      | 이분 탐색   |    |
 |       | [입국심사](https://cream-grill-223.notion.site/09-02-a8b6f49afcdb4a29a91f51fd28474ff8)              |              | 이분 탐색   |   |
-
-
+| 9주차 | [위클리 챌린지 6주차](https://www.notion.so/kimpp/09-16-6-ef0338ccfa5b4853aba64db73288bc67) | 프로그래머스 | 정렬    |    |
+|       | [후보키](https://www.notion.so/kimpp/09-16-576d5f99af0540329d201df3208a8619)            |      | 해시   |    |
+|       | [정수 삼각형](https://www.notion.so/kimpp/09-16-DP-c2447d71169a400e9fda51a4102ad101)              |              | DP   |   |
+| 10주차 | [DFS와 BFS](https://www.notion.so/kimpp/09-26-DFS-BFS-DFS-BFS-c825560ded5b4cdda83225e3eb187e1c) | 백준 |  DFS/BFS   |    |
+|       | [피보나치 함수](https://www.notion.so/kimpp/09-26-DP-00dd327f35b544f3b810978a14e090d9)            |      | DP   |    |
+|       | [메뉴 리뉴얼](https://www.notion.so/kimpp/09-26-3b44faca60a747c199483c1dc41012d0)              |   프로그래머스        | 해시   |   |
 ----
 
 
@@ -45,5 +49,7 @@
 * 4주차 : DFS / BFS (1)
 * 5주차 : DFS / BFS (2)
 * 6주차 : 정렬
-* 7주차 : 이분탐색
-* 8주차 : 이분탐색2
+* 7주차 : 이분탐색 (1)
+* 8주차 : 이분탐색 (2)
+* 9주차 : DP (1)
+* 10주차 : DP (2) 
