@@ -25,18 +25,18 @@
 | 7주차 | [위장](https://cream-grill-223.notion.site/09-02-223273fb707e49ed8d58619edeff1847) | 프로그래머스 | 해시    |  ⭕  |
 |       | [구명보트](https://cream-grill-223.notion.site/09-02-605f1902105e4337b7e122592fc04d61)            |      | 그리디    |  ⭕  |
 |       | [입국심사](https://cream-grill-223.notion.site/09-02-a8b6f49afcdb4a29a91f51fd28474ff8)              |              | 이분 탐색   |  🔺  |
-| 8주차 | [공유기 설치](https://www.notion.so/09-09-0c020dc4a5c6481a8b65206fce2bb2fd) | 백준 | 이분 탐색    |    |
-|       | [나무 자르기](https://www.notion.so/09-09-33723c8fdc334508abc190ca92e63b9f)            |      | 이분 탐색   |    |
-|       | [입국심사](https://cream-grill-223.notion.site/09-02-a8b6f49afcdb4a29a91f51fd28474ff8)              |              | 이분 탐색   |   |
-| 9주차 | [위클리 챌린지 6주차](https://www.notion.so/kimpp/09-16-6-ef0338ccfa5b4853aba64db73288bc67) | 프로그래머스 | 정렬    |    |
-|       | [후보키](https://www.notion.so/kimpp/09-16-576d5f99af0540329d201df3208a8619)            |      | 해시   |    |
-|       | [정수 삼각형](https://www.notion.so/kimpp/09-16-DP-c2447d71169a400e9fda51a4102ad101)              |              | DP   |   |
-| 10주차 | [DFS와 BFS](https://www.notion.so/kimpp/09-26-DFS-BFS-DFS-BFS-c825560ded5b4cdda83225e3eb187e1c) | 백준 |  DFS/BFS   |    |
-|       | [피보나치 함수](https://www.notion.so/kimpp/09-26-DP-00dd327f35b544f3b810978a14e090d9)            |      | DP   |    |
-|       | [메뉴 리뉴얼](https://www.notion.so/kimpp/09-26-3b44faca60a747c199483c1dc41012d0)              |   프로그래머스        | 해시   |   |
-| 11주차 | [없는 숫자 더하기](https://www.notion.so/kimpp/10-03-2ef5d58e95fa4124838a1f6ad571d636) | 프로그래머스 |  구현   |    |
-|       | [빛의 경로 사이클](https://www.notion.so/kimpp/10-03-f2861d1fd1f04176aecf02d46ca442c0)            |      | DFS/BFS   |    |
-|       | [N으로 표현](https://www.notion.so/kimpp/10-03-DP-N-bd69b1d55f174d23aa2f33db48cf9588)              |           | DP   |   |
+| 8주차 | [공유기 설치](https://www.notion.so/09-09-0c020dc4a5c6481a8b65206fce2bb2fd) | 백준 | 이분 탐색    |⭕    |
+|       | [나무 자르기](https://www.notion.so/09-09-33723c8fdc334508abc190ca92e63b9f)            |      | 이분 탐색   |  ⭕  |
+|       | [입국심사](https://cream-grill-223.notion.site/09-02-a8b6f49afcdb4a29a91f51fd28474ff8)              |              | 이분 탐색   |  ❌ |
+| 9주차 | [위클리 챌린지 6주차](https://www.notion.so/kimpp/09-16-6-ef0338ccfa5b4853aba64db73288bc67) | 프로그래머스 | 정렬    |  🔺  |
+|       | [후보키](https://www.notion.so/kimpp/09-16-576d5f99af0540329d201df3208a8619)            |      | 해시   | ❌   |
+|       | [정수 삼각형](https://www.notion.so/kimpp/09-16-DP-c2447d71169a400e9fda51a4102ad101)              |              | DP   | 🔺  |
+| 10주차 | [DFS와 BFS](https://www.notion.so/kimpp/09-26-DFS-BFS-DFS-BFS-c825560ded5b4cdda83225e3eb187e1c) | 백준 |  DFS/BFS   |  ⭕  |
+|       | [피보나치 함수](https://www.notion.so/kimpp/09-26-DP-00dd327f35b544f3b810978a14e090d9)            |      | DP   |  ⭕  |
+|       | [메뉴 리뉴얼](https://www.notion.so/kimpp/09-26-3b44faca60a747c199483c1dc41012d0)              |   프로그래머스        | 해시   | 🔺  |
+| 11주차 | [없는 숫자 더하기](https://www.notion.so/kimpp/10-03-2ef5d58e95fa4124838a1f6ad571d636) | 프로그래머스 |  구현   |  ⭕  |
+|       | [빛의 경로 사이클](https://www.notion.so/kimpp/10-03-f2861d1fd1f04176aecf02d46ca442c0)            |      | DFS/BFS   | ❌   |
+|       | [N으로 표현](https://www.notion.so/kimpp/10-03-DP-N-bd69b1d55f174d23aa2f33db48cf9588)              |           | DP   | ❌  |
 ----
 
 
