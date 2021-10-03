@@ -34,6 +34,9 @@
 | 10주차 | [DFS와 BFS](https://www.notion.so/kimpp/09-26-DFS-BFS-DFS-BFS-c825560ded5b4cdda83225e3eb187e1c) | 백준 |  DFS/BFS   |    |
 |       | [피보나치 함수](https://www.notion.so/kimpp/09-26-DP-00dd327f35b544f3b810978a14e090d9)            |      | DP   |    |
 |       | [메뉴 리뉴얼](https://www.notion.so/kimpp/09-26-3b44faca60a747c199483c1dc41012d0)              |   프로그래머스        | 해시   |   |
+| 11주차 | [없는 숫자 더하기](https://www.notion.so/kimpp/10-03-2ef5d58e95fa4124838a1f6ad571d636) | 프로그래머스 |  구현   |    |
+|       | [빛의 경로 사이클](https://www.notion.so/kimpp/10-03-f2861d1fd1f04176aecf02d46ca442c0)            |      | DFS/BFS   |    |
+|       | [N으로 표현](https://www.notion.so/kimpp/10-03-DP-N-bd69b1d55f174d23aa2f33db48cf9588)              |           | DP   |   |
 ----
 
 
@@ -53,3 +56,4 @@
 * 8주차 : 이분탐색 (2)
 * 9주차 : DP (1)
 * 10주차 : DP (2) 
+* 11주차 : 최단경로(1)
