@@ -37,6 +37,9 @@
 | 11주차 | [없는 숫자 더하기](https://www.notion.so/kimpp/10-03-2ef5d58e95fa4124838a1f6ad571d636) | 프로그래머스 |  구현   |  ⭕  |
 |       | [빛의 경로 사이클](https://www.notion.so/kimpp/10-03-f2861d1fd1f04176aecf02d46ca442c0)            |      | DFS/BFS   | ❌   |
 |       | [N으로 표현](https://www.notion.so/kimpp/10-03-DP-N-bd69b1d55f174d23aa2f33db48cf9588)              |           | DP   | ❌  |
+| 12주차 | [링](https://www.notion.so/kimpp/10-10-bd8046f5537d4659be48ba2f9eb43027) | 백준 |  수학   |  ⭕  |
+|       | [최단 경로](https://www.notion.so/kimpp/10-10-cad8c5685d69448a849a13d66ea6929b)            |      | 최단 경로   | ❌   |
+|       | [계단 오르기](https://www.notion.so/kimpp/10-10-DP-4a6162d0ce7047bb8aba51eec3b4ea9e)              |           | DP   | ⭕  |
 ----
 
 
@@ -57,3 +60,4 @@
 * 9주차 : DP (1)
 * 10주차 : DP (2) 
 * 11주차 : 최단경로(1)
+* 12주차 : 최단경로(2)
